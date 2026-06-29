@@ -11,37 +11,38 @@
 - Muhammad Talha
 - Noor Iftikhar
 
+**GitHub usernames:**
+
+- [@qaimhussain](https://github.com/qaimhussain)
+- [@talha-ml](https://github.com/talha-ml)
+- [@Noor72802](https://github.com/Noor72802)
+- [@affansethi](https://github.com/affansethi)
+
 ---
 
 ## 💡 Our Idea
 
-Our squad is building from **one** of the ten ideas in the
-[Cohort 1 Product Challenge](https://github.com/Comebck-Pakistan/cohort-1-product-challenge). The
-idea is a starting line, not a spec — our job is to **narrow it** to one specific user,
-one painful problem, and one small thing we can ship in 8 weeks.
+Our squad picked **[Idea 4 — The Freelancer's Co-Pilot](https://github.com/Comebck-Pakistan/cohort-1-product-challenge#idea-4--the-freelancers-co-pilot)** from the [Cohort 1 Product Challenge](https://github.com/Comebck-Pakistan/cohort-1-product-challenge). Below are our ideation-stage validation answers, reproduced exactly as we submitted them.
 
-**Pick one of the ten ideas, then delete the rest of this list:**
+### One specific user
 
-1. The Small-Business Brain (WhatsApp-first)
-2. The Urdu-First Study Coach
-3. The Shoebox-to-Books Bookkeeper
-4. The Freelancer's Co-Pilot
-5. The Always-On Front Desk (Voice/WhatsApp Agent)
-6. The Farmer's Advisor in Your Pocket
-7. The SME Paperwork Generator
-8. The Social-Commerce Support Agent
-9. The Fair First-Round Recruiter
-10. The Public-Services Navigator
+The reason I believe this product has strong potential is that it solves problems traditional freelance platforms don't. On platforms like Fiverr and Upwork, freelancers pay high commissions (around 20%), purchase connects or credits, and spend hours searching for clients. FreelancerCopilot flips that model: clients describe what they need, and the system intelligently matches them with vetted freelancers, making the process much faster and more efficient for both sides. In the future, we can also introduce a monthly subscription model instead of charging high commissions, creating a more sustainable and freelancer friendly platform.
 
-### 📌 Our pick
+### The painful problem
 
-> _Fill this in as a squad._
+Pakistani freelancers are skilled but invisible. They spend hours every day writing proposals that get ignored, buying credits just to apply for jobs, and losing clients to cheaper competitors not because they are less talented, but because they have no smart system working for them. On the client side, finding trustworthy freelancer means scrolling through hundreds of unverified profiles with no guarantee of quality. Both sides are wasting time and money on a broken process that was never built for the Pakistani market.
 
-- **Idea we picked:** _#__ — ____________________________________________
-- **One specific user:** _______________________________________________
-- **The painful problem:** _____________________________________________
-- **Our 8-week wedge (the one small thing we'll ship):** _______________
-- **The one number that proves people want it:** _______________________
+### Our 8-week wedge
+
+A WhatsApp bot that lets Pakistani freelancers register their skills in under 5 minutes and instantly matches them with clients who describe what they need no app download, no commission, just a message.
+
+### The one number that proves people want it
+
+5 real clients who described their project through the WhatsApp bot and hired a matched freelancer within 48 hours  without ever visiting Fiverr or Upwork.
+
+### Why we picked this idea
+
+We picked this because one of our squad members is a freelancer himself 3 years on Fiverr, knows the pain firsthand. We are not guessing at this problem, we are living it. We can physically reach 10 freelancers this week through our own networks, university communities, and Pakistani freelancer groups on WhatsApp and Facebook. The problem is real, the users are accessible, and the market is right in front of us.
 
 ---
 
